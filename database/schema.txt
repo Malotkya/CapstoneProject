@@ -1,0 +1,13 @@
+MyDecks {
+    title: string,
+    image: Image,
+    description: string,
+    deckList: string,
+    cache: Object,
+    colors: string
+}
+
+Promotions {
+    PURCHASE_CODE: string,
+    PURCHASE_BUTTON_HOVER_TEXT: string
+}
