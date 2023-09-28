@@ -20,3 +20,7 @@ Some stretch goals were added like:
 ## Technology
 Wix was chosen as the platform to develop the website because it has drag and drop elements that would allow DJ to be able to make changes and maintain the website after I was no longer working on the project.
 Wix also came with the abbility to add custom elements allowing me to add special functionality and a document database for storing the deck information.
+
+To Npm packages were added to the project:
+1) [cvs-parse](https://www.npmjs.com/package/csv-parse): used for parsing cvs deck information uploaded to the database.
+3) [masonry-layout](https://www.npmjs.com/package/masonry-layout): used to form a masonry layout betweeen the different catagories in a deck list.
